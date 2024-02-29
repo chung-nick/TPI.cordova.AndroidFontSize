@@ -1,0 +1,17 @@
+{
+  "name": "Neux.cordova.AndroidFontSize",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "Neux.cordova.AndroidFontSize",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
